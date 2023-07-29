@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "trackId": 1, "trackName": "Post 1", "collectionName": "pog" },
-    { "trackId": 2, "trackName": "Post 2", "collectionName": "pog" },
-    { "trackId": 3, "trackName": "Post 3", "collectionName": "pog" }
+    { "someID": 1, "postName": "Post 1", "collectionName": "pog" },
+    { "someID": 2, "postName": "Post 2", "collectionName": "pog" },
+    { "someID": 3, "postName": "Post 3", "collectionName": "pog" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
