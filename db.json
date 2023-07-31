@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "someID": 1, "postName": "Post 1", "collectionName": "pog" },
-    { "someID": 2, "postName": "Post 2", "collectionName": "pog" },
-    { "someID": 3, "postName": "Post 3", "collectionName": "pog" }
+    { "id": 1, "someID": 1, "postName": "Post 1", "collectionName": "pog" },
+    { "id": 2, "someID": 2, "postName": "Post 2", "collectionName": "pog" },
+    { "id": 3, "someID": 3, "postName": "Post 3", "collectionName": "pog" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
